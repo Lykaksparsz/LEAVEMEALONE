@@ -1,3 +1,3 @@
-# "LEAVE HIM ALONE" PUBLIC LICENSE
-This is just a Software public License (Such as GNU GPL, Mit, Etc.)
-to make him alone.
+# "LEAVE HIM ALONE" PUBLIC LICENSE EXAMPLE
+This is just an example of it.
+It starts with File that are written Hello world in C++.
